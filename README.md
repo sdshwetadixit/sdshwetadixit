@@ -5,10 +5,10 @@ I am a statistician by profession at PHFI, Gurugram, India. I love to automate t
 
 Current project - CHAIR-India and applying different ML predictive models to low-cost air quality sensor data.
 
-Member of the online communities:
-afrimapr
-R Ladies Asia
-r4ds
+Member of the online communities: \
+**afrimapr** \
+**R Ladies Asia** \
+**r4ds** \
 I love rstats, environment, Green life, wildlife conservation, World peace, and I believe in converting(Data_To_Information). I am a huge fan of Computer language specifically R
 🔭 I’m currently working on Prediction of Air Quality in Delhi-NCR. 🌱 I’m constantly learning to automate and code effectively. And have developed interest in ML & Deepleaning.
 
