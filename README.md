@@ -16,7 +16,7 @@ I love rstats, environment, Green life, wildlife conservation, World peace, and 
 
 💬 Ask me about my programming journey or just how to write shorter codes. ⚡ Fun fact: I am lazyiest coder, will come up with this soon!
 
-Apart from work I like learning new aspect of life ,travel, reading, playing ukelele, painting, and recently generative art crefting.
+Apart from work I like learning new aspect of life ,travel, reading, playing ukelele, painting, and recently generative art crafting.
 
 Languages known: R, Python, English, Hindi
 
