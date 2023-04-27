@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a 👩🏽‍💻 Thanks for stopping by.
 
-I am a statistician by profession at PHFI, Gurugram, India. I love to automate things and making a code, simple to use. I would be glad to hear suggestions or on any R packages can be used for simplification of the statistics environment. I am a PHD in statistics from Banaras Hindu University, Varanasi, Where I have got the foundation of **Statistics**. My specialization is in Demography which is the study of Human fertility and mortality. Along with all this interest based information I also been a statistics teacher and loved teaching my kids statistics with data to create information from data.
+I am a researcher (statistician) by profession at PHFI, Gurugram, India. I love to automate things and making a code, simple to use. I would be glad to hear suggestions or on any R packages can be used for simplification of the statistics environment. I am a PHD in statistics from Banaras Hindu University, Varanasi, Where I have got the foundation of **Statistics**. My specialization is in Demography which is the study of Human fertility and mortality. Along with all this interest based information I also been a statistics teacher and loved teaching my kids statistics with data to create information from data.
 
 Current project - CHAIR-India and applying different ML predictive models to low-cost air quality sensor data.
 
