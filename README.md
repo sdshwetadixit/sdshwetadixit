@@ -19,4 +19,5 @@ Languages known: R, Python, English, Hindi
 
 Pronouns - she/her
 
-📫 Can be reached out at - sdshwetadixit@gmail.com \
+📫 Can be reached out at: sdshwetadixit@gmail.com \
+and can find some of my thoughts here in: https://medium.com/@sdshwetadixit
