@@ -1,7 +1,8 @@
 ### Hi there 👋
-👩🏽‍💻 I am a researcher (statistician) by profession at PHFI, Gurugram, India. Love to learn and automate things and making a code, simple to use. I would be glad to hear suggestions or on any R packages can be used for simplification of the statistics environment. I hold a PhD in statistics, where I have got the foundation of **Statistics**. My specialization is in Demography which is the study of Human fertility and mortality. Along with all this interest based information I also been a statistics teacher and loved teaching my kids statistics with data to generate information therein .
+👩🏽‍💻 I am a researcher (statistician) by profession at PHFI, Gurugram, India. Love to learn and automate things and making a code, simple to use. I would be glad to hear suggestions or on any R packages can be used for simplification of the statistics environment. I hold a PhD in statistics, where I have got the foundation of **Statistics**. I also been a statistics teacher and loved teaching my kids statistics with data to generate and explore information therein .
 
-Current project - Working in Public Health Domain. Proudly Learning and doing new things new tasks on a daily basis.
+Currently I am Working in Public Health Domain. 
+Proudly Learning and doing new things new tasks on a daily basis.
 
 Member of the online communities: \
 **afrimapr** \
